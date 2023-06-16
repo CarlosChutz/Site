@@ -1,8 +1,12 @@
-header{
-    background-color: rgb(255, 255, 255);
-    color: white;
+*{
+    margin: 0;
+    padding: 0;
 }
-
-.cabeçalho-imagem{
-    width: 10%;
+.cabecalho{
+    background-color:
+    #33e098
+    justify-content: baseline;
 }
+.cabecalho-imagem{
+    width: 20%;
+    height: 20%;
