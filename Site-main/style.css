@@ -1,12 +1,12 @@
-*{
-    margin: 0;
-    padding: 0;
+header{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
-.cabecalho{
-    background-color:
-    #33e098
-    justify-content: baseline;
+
+.cabeçalho-imagem{
+    width: 15%;
 }
-.cabecalho-imagem{
-    width: 20%;
-    height: 20%;
+
+.Alunos{
+    text-size-adjust: 8;
+}
